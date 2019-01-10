@@ -12,5 +12,5 @@ class Shoe
     "The shoe has been repaired."
   end
 
-  
+
 end
